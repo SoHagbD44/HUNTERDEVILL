@@ -1,0 +1,17 @@
+pkg update && pkg upgrade 
+
+$ pkg install python 
+
+$ pkg install python2 
+
+$ pkg install git 
+
+$ pip2 install requests bs4
+
+$ pip2 install mechanize 
+
+$ git clone  https://github.com/Hunter-alamin/HUNTERDEVILL
+
+$ cd HAUNTERDEVILL
+
+$ python2 haunter.py
